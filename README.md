@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-jonathan&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-jonathan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay-jonathan" alt="vijay-jonathan" /></a> </p>
-
+- I am currently working as University of texas at Dallas (https://jindal.utdallas.edu/digital-services-and-analytics/students/#Vijay:~:text=exploring%20the%20wildlife.-,Vijay%20Mani%20Dev%20Kaluri,-Student%20Web%20Developer)
 - 👨‍💻 All of my projects are available at [vijaymanidev.online](vijaymanidev.online)
 
 - 📝 I regularly write articles on [vijaymanidev.online](vijaymanidev.online)
